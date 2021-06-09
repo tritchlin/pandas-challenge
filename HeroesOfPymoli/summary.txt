@@ -1,0 +1,144 @@
+   Total Players
+0            576   Number of Unique Items Average Purchase Price  Number of Purchases  \
+0                     179                  $3.05                  780   
+
+  Total Revenue  
+0      $2379.77                         Total Count Percentage of Players
+Gender                                                  
+Female                          81                14.06%
+Male                           484                84.03%
+Other / Non-Disclosed           11                 1.91%                       Purchase Count Average Purchase Price  \
+Gender                                                         
+Female                            113                  $3.20   
+Male                              652                  $3.02   
+Other / Non-Disclosed              15                  $3.35   
+
+                      Total Purchase Value Avg Total Purchase per Person  
+Gender                                                                    
+Female                             $361.94                         $4.47  
+Male                              $1967.64                         $4.07  
+Other / Non-Disclosed               $50.19                         $4.56         Total Count Percentage of Players
+<10             17                 2.95%
+10-14           22                 3.82%
+15-19          107                18.58%
+20-24          258                44.79%
+25-29           77                13.37%
+30-34           52                 9.03%
+35-39           31                 5.38%
+40+             12                 2.08%       Purchase Count Average Purchase Price Total Purchase Value  \
+<10                23                  $3.35               $77.13   
+10-14              28                  $2.96               $82.78   
+15-19             136                  $3.04              $412.89   
+20-24             365                  $3.05             $1114.06   
+25-29             101                  $2.90              $293.00   
+30-34              73                  $2.93              $214.00   
+35-39              41                  $3.60              $147.67   
+40+                13                  $2.94               $38.24   
+
+      Avg Total Purchase per Person  
+<10                           $4.54  
+10-14                         $3.76  
+15-19                         $3.86  
+20-24                         $4.32  
+25-29                         $3.81  
+30-34                         $4.12  
+35-39                         $4.76  
+40+                           $3.19               Purchase Count Average Purchase Price Total Purchase Value
+SN                                                                     
+Lisosia93                 5                  $3.79               $18.96
+Idastidru52               4                  $3.86               $15.45
+Chamjask73                3                  $4.61               $13.83
+Iral74                    4                  $3.40               $13.62
+Iskadarya95               3                  $4.37               $13.10
+...                     ...                    ...                  ...
+Ililsasya43               1                  $1.02                $1.02
+Irilis75                  1                  $1.02                $1.02
+Aidai61                   1                  $1.01                $1.01
+Chanirra79                1                  $1.01                $1.01
+Alo38                     1                  $1.00                $1.00
+
+[576 rows x 3 columns]                                                      Purchase Count  \
+Item ID Item Name                                                      
+92      Final Critic                                              13   
+178     Oathbreaker, Last Hope of the Breaking Storm              12   
+82      Nirvana                                                    9   
+145     Fiery Glass Crusader                                       9   
+103     Singed Scalpel                                             8   
+...                                                              ...   
+28      Flux, Destroyer of Due Diligence                           2   
+125     Whistling Mithril Warblade                                 2   
+126     Exiled Mithril Longsword                                   1   
+104     Gladiator's Glaive                                         1   
+42      The Decapitator                                            1   
+
+                                                     Average Purchase Price  \
+Item ID Item Name                                                             
+92      Final Critic                                                  $4.61   
+178     Oathbreaker, Last Hope of the Breaking Storm                  $4.23   
+82      Nirvana                                                       $4.90   
+145     Fiery Glass Crusader                                          $4.58   
+103     Singed Scalpel                                                $4.35   
+...                                                                     ...   
+28      Flux, Destroyer of Due Diligence                              $1.06   
+125     Whistling Mithril Warblade                                    $1.00   
+126     Exiled Mithril Longsword                                      $2.00   
+104     Gladiator's Glaive                                            $1.93   
+42      The Decapitator                                               $1.75   
+
+                                                     Total Purchase Value  
+Item ID Item Name                                                          
+92      Final Critic                                               $59.99  
+178     Oathbreaker, Last Hope of the Breaking Storm               $50.76  
+82      Nirvana                                                    $44.10  
+145     Fiery Glass Crusader                                       $41.22  
+103     Singed Scalpel                                             $34.80  
+...                                                                   ...  
+28      Flux, Destroyer of Due Diligence                            $2.12  
+125     Whistling Mithril Warblade                                  $2.00  
+126     Exiled Mithril Longsword                                    $2.00  
+104     Gladiator's Glaive                                          $1.93  
+42      The Decapitator                                             $1.75  
+
+[179 rows x 3 columns]                                                      Purchase Count  \
+Item ID Item Name                                                      
+92      Final Critic                                              13   
+178     Oathbreaker, Last Hope of the Breaking Storm              12   
+82      Nirvana                                                    9   
+145     Fiery Glass Crusader                                       9   
+103     Singed Scalpel                                             8   
+...                                                              ...   
+28      Flux, Destroyer of Due Diligence                           2   
+125     Whistling Mithril Warblade                                 2   
+126     Exiled Mithril Longsword                                   1   
+104     Gladiator's Glaive                                         1   
+42      The Decapitator                                            1   
+
+                                                     Average Purchase Price  \
+Item ID Item Name                                                             
+92      Final Critic                                                  $4.61   
+178     Oathbreaker, Last Hope of the Breaking Storm                  $4.23   
+82      Nirvana                                                       $4.90   
+145     Fiery Glass Crusader                                          $4.58   
+103     Singed Scalpel                                                $4.35   
+...                                                                     ...   
+28      Flux, Destroyer of Due Diligence                              $1.06   
+125     Whistling Mithril Warblade                                    $1.00   
+126     Exiled Mithril Longsword                                      $2.00   
+104     Gladiator's Glaive                                            $1.93   
+42      The Decapitator                                               $1.75   
+
+                                                     Total Purchase Value  
+Item ID Item Name                                                          
+92      Final Critic                                               $59.99  
+178     Oathbreaker, Last Hope of the Breaking Storm               $50.76  
+82      Nirvana                                                    $44.10  
+145     Fiery Glass Crusader                                       $41.22  
+103     Singed Scalpel                                             $34.80  
+...                                                                   ...  
+28      Flux, Destroyer of Due Diligence                            $2.12  
+125     Whistling Mithril Warblade                                  $2.00  
+126     Exiled Mithril Longsword                                    $2.00  
+104     Gladiator's Glaive                                          $1.93  
+42      The Decapitator                                             $1.75  
+
+[179 rows x 3 columns]

@@ -1,0 +1,77 @@
+Observations:
+ 1: Largest buyer demographic is likely males between the ages of 20-24, with over 75% our total buyer list being between the ages of 15 and 29. Marketing towards teenage and young-adult males is working well.
+ 2: Given that the top 2 most popular items are also the top 2 most profitable items, we can infer that the decision to purchase is not price-driven
+ 3: While female players consist of only 14.05% of our player demographics, their total spending is 15.2% of all purchase data.
+   Female players also have the highest average purchase amount and average total purchase dollars per person. Consider increasing marketing to teenage and young-women to capture a higher market share.
+
+
+Total Players
+Total Players
+	576
+
+Purchasing Analysis
+Number of Unique Items	Average Purchase Price	Number of Purchases	Total Revenue
+0	        	179	        	$3.05		       	780		          $2379.77
+
+Gender Demographics Analysis
+	    	            Total Count	Percentage of Players
+Gender		
+Female		            	81      	14.06%
+Male	            		484	        84.03%
+Other / Non-Disclosed   	11      	1.91%
+
+Gender Purchasing Analysis
+		                Purchase Count	Average Purchase Price	Total Purchase Value	Avg Total Purchase per Person
+Gender				
+Female		            	113	            	$3.20		         	$361.94		        	$4.47
+Male			            652		            $3.02		        	$1967.64	        	$4.07
+Other / Non-Disclosed	    15		            $3.35		        	$50.19		        	$4.56
+
+Age Demographics Analysis
+	    Total Count	Percentage of Players
+<10         17	        2.95%
+10-14	    22      	3.82%
+15-19	    107	        18.58%
+20-24		258     	44.79%
+25-29		77      	13.37%
+30-34		52      	9.03%
+35-39		31      	5.38%
+40+		    12      	2.08%
+
+Age Purchasing Analysis
+    	Purchase Count	Average Purchase Price	Total Purchase Value	Avg Total Purchase per Person
+<10	    	23	            	$3.35		       	$77.13	        		$4.54
+10-14		28	            	$2.96		    	$82.78		        	$3.76
+15-19		136	            	$3.04		    	$412.89		        	$3.86
+20-24		365	            	$3.05		    	$1114.06	        	$4.32
+25-29		101	            	$2.90			    $293.00		        	$3.81
+30-34		73	            	$2.93			    $214.00		        	$4.12
+35-39		41		            $3.60			    $147.67		        	$4.76
+40+	    	13		            $2.94		    	$38.24	        		$3.19
+
+Top 5 Spenders
+		Purchase Count	Average Purchase Price	Total Purchase Value
+SN			
+Lisosia93	    	5	    	$3.79		    	$18.96
+Idastidru52	    	4	    	$3.86		    	$15.45
+Chamjask73	    	3	    	$4.61		    	$13.83
+Iral74		    	4	    	$3.40		    	$13.62
+Iskadarya95		    3	    	$4.37		    	$13.10
+
+Most Popular Items by Purchase Count
+					                        	Purchase Count	Average Purchase Price	Total Purchase Value
+Item ID	Item Name			
+92	Final Critic				                	13		            $4.61		    	$59.99
+178	Oathbreaker, Last Hope of the Breaking Storm	12		            $4.23	    		$50.76
+145	Fiery Glass Crusader		            		9	            	$4.58	    		$41.22
+132	Persuasion				                    	9	            	$3.22	    		$28.99
+108	Extraction, Quickblade Of Trembling Hands   	9	            	$3.53		    	$31.77
+
+Most Profitable Items (based on Total Purchase Value)
+					                    	Purchase Count	Average Purchase Price	Total Purchase Value
+Item ID	Item Name			
+92	Final Critic		                			13	    	$4.61		        	$59.99
+178	Oathbreaker, Last Hope of the Breaking Storm	12	    	$4.23	        		$50.76
+82	Nirvana			                    			9	    	$4.90	        		$44.10
+145	Fiery Glass Crusader            				9	    	$4.58	        		$41.22
+103	Singed Scalpel		                			8	    	$4.35	        		$34.80
