@@ -42,7 +42,7 @@ Purchasing Analysis (age)
   - Average Purchase Total per Person by Age
 
 Top Spenders
-= Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+- Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   - SN
   - Purchase Count
   - Average Purchase Price
