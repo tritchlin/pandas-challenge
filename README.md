@@ -1,5 +1,14 @@
 UCSD Data Bootcamp - Pandas Homework 4
 
+Skills used:
+- Set, Reset, and Identify Indexing
+- Create/write DataFrames
+- GroupBy / SortBy
+- Formatting currency and percentage
+- Binning
+- Merging (DataFrame) and zipping (lists)
+- Sort by ascending/descending
+
 Given two assignments, I chose the "Heroes of Pymoli" option:
 
 With Jupyter and Pandas, read in the CSV and output the following:
